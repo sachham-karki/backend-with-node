@@ -1,0 +1,15 @@
+{
+  "name": "roux-academy",
+  "version": "1.0.0",
+  "description": "Website Development with Node and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Sachham Karki",
+  "license": "VU",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
